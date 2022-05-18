@@ -29,6 +29,10 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
+header_pages:
+  - resume.html
+  - archive.html
 
 titles_from_headings:
   strip_title: true
